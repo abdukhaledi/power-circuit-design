@@ -24,3 +24,6 @@ Full wave circuit rectifier will convert AC into DC voltage
 to keep voltages within the prescribed range (5 volt) that can be tolerated by the electrical equipment using that voltage
 
 ![image](https://user-images.githubusercontent.com/85647212/126733806-2532a5f4-f19a-4d07-90ad-39f026729e32.png)
+
+## Circuit link
+https://crcit.net/c/c605f5fe04434eae917dd8cfbbcb24dc
